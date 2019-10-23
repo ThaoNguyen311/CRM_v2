@@ -1468,10 +1468,6 @@
     <Content Include="report\_reportListCusSaleReback.aspx" />
     <Content Include="report\_reportListCusSaleReDelete.aspx" />
     <Content Include="report\_reportTeamSaleIsBlocked.aspx" />
-    <Content Include="temp\_mainGetSaleLeads.aspx" />
-    <Content Include="temp\_mainQuickCreate.aspx" />
-    <Content Include="temp\_mainSearch.aspx" />
-    <Content Include="temp\_mainYourCustomer.aspx" />
     <Content Include="Web.config" />
     <Content Include="main\CodeMain.aspx" />
     <Content Include="WebForm2.aspx" />
@@ -1719,34 +1715,6 @@
     </Compile>
     <Compile Include="report\_reportTeamSaleIsBlocked.aspx.designer.cs">
       <DependentUpon>_reportTeamSaleIsBlocked.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="temp\_mainGetSaleLeads.aspx.cs">
-      <DependentUpon>_mainGetSaleLeads.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="temp\_mainGetSaleLeads.aspx.designer.cs">
-      <DependentUpon>_mainGetSaleLeads.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="temp\_mainQuickCreate.aspx.cs">
-      <DependentUpon>_mainQuickCreate.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="temp\_mainQuickCreate.aspx.designer.cs">
-      <DependentUpon>_mainQuickCreate.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="temp\_mainSearch.aspx.cs">
-      <DependentUpon>_mainSearch.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="temp\_mainSearch.aspx.designer.cs">
-      <DependentUpon>_mainSearch.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="temp\_mainYourCustomer.aspx.cs">
-      <DependentUpon>_mainYourCustomer.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="temp\_mainYourCustomer.aspx.designer.cs">
-      <DependentUpon>_mainYourCustomer.aspx</DependentUpon>
     </Compile>
     <Compile Include="WebForm2.aspx.cs">
       <DependentUpon>WebForm2.aspx</DependentUpon>
