@@ -1,0 +1,289 @@
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\WorkbaseImm.dll.config
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\WorkbaseImm.dll
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\WorkbaseImm.pdb
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\csc.exe
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\csc.exe.config
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\csc.rsp
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\csi.exe
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\csi.exe.config
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\csi.rsp
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.Managed.Core.targets
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.AppContext.dll
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Collections.Immutable.dll
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Console.dll
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.IO.Compression.dll
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.IO.FileSystem.dll
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.IO.Pipes.dll
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Reflection.Metadata.dll
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Security.AccessControl.dll
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Security.Claims.dll
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Security.Principal.Windows.dll
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.ValueTuple.dll
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Xml.XmlDocument.dll
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Xml.XPath.dll
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\vbc.exe
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\vbc.exe.config
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\vbc.rsp
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\VBCSCompiler.exe
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\VBCSCompiler.exe.config
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\obj\Debug\WorkbaseImm.csprojAssemblyReference.cache
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\obj\Debug\WorkbaseImm.csproj.CoreCompileInputs.cache
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\obj\Debug\WorkbaseImm.csproj.CopyComplete
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\obj\Debug\WorkbaseImm.dll
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\obj\Debug\WorkbaseImm.pdb
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\RestSharp.dll
+E:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\RestSharp.xml
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\WorkbaseImm.dll.config
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\WorkbaseImm.dll
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\WorkbaseImm.pdb
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\csc.exe
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\csc.exe.config
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\csc.rsp
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\csi.exe
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\csi.exe.config
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\csi.rsp
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.Managed.Core.targets
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.AppContext.dll
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Collections.Immutable.dll
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Console.dll
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.IO.Compression.dll
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.IO.FileSystem.dll
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.IO.Pipes.dll
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Reflection.Metadata.dll
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Security.AccessControl.dll
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Security.Claims.dll
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Security.Principal.Windows.dll
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.ValueTuple.dll
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Xml.XmlDocument.dll
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Xml.XPath.dll
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\vbc.exe
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\vbc.exe.config
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\vbc.rsp
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\VBCSCompiler.exe
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\roslyn\VBCSCompiler.exe.config
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\RestSharp.dll
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\RestSharp.xml
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\obj\Debug\WorkbaseImm.csprojAssemblyReference.cache
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\obj\Debug\WorkbaseImm.csproj.CoreCompileInputs.cache
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\obj\Debug\WorkbaseImm.csproj.CopyComplete
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\obj\Debug\WorkbaseImm.dll
+F:\WORK\WB2019\WorkbaseImm\WorkbaseImm\obj\Debug\WorkbaseImm.pdb
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\WorkbaseImm.dll.config
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\WorkbaseImm.dll
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\WorkbaseImm.pdb
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\csc.exe
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\csc.exe.config
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\csc.rsp
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\csi.exe
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\csi.exe.config
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\csi.rsp
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.AppContext.dll
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Collections.Immutable.dll
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Console.dll
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.IO.Compression.dll
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.IO.FileSystem.dll
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.IO.Pipes.dll
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Reflection.Metadata.dll
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Security.AccessControl.dll
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Security.Claims.dll
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.ValueTuple.dll
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Xml.XPath.dll
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\vbc.exe
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\vbc.exe.config
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\vbc.rsp
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\VBCSCompiler.exe
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\VBCSCompiler.exe.config
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\RestSharp.dll
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\RestSharp.xml
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\obj\Debug\WorkbaseImm.csprojAssemblyReference.cache
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\obj\Debug\WorkbaseImm.csproj.CoreCompileInputs.cache
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\obj\Debug\WorkbaseImm.csproj.CopyComplete
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\obj\Debug\WorkbaseImm.dll
+D:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\obj\Debug\WorkbaseImm.pdb
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\WorkbaseImm.dll.config
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\WorkbaseImm.dll
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\WorkbaseImm.pdb
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\csc.exe
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\csc.exe.config
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\csc.rsp
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\csi.exe
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\csi.exe.config
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\csi.rsp
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.AppContext.dll
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Collections.Immutable.dll
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Console.dll
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.IO.Compression.dll
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.IO.FileSystem.dll
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.IO.Pipes.dll
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Reflection.Metadata.dll
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Security.AccessControl.dll
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Security.Claims.dll
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.ValueTuple.dll
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Xml.XPath.dll
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\vbc.exe
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\vbc.exe.config
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\vbc.rsp
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\VBCSCompiler.exe
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\roslyn\VBCSCompiler.exe.config
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\RestSharp.dll
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\RestSharp.xml
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\obj\Debug\WorkbaseImm.csprojAssemblyReference.cache
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\obj\Debug\WorkbaseImm.csproj.CoreCompileInputs.cache
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\obj\Debug\WorkbaseImm.csproj.CopyComplete
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\obj\Debug\WorkbaseImm.dll
+E:\Pro 2019\project\project\crm\WorkbaseImm\WorkbaseImm\obj\Debug\WorkbaseImm.pdb
+D:\GIT\project\CRM\WorkbaseImm\obj\Debug\WorkbaseImm.dll
+D:\GIT\project\CRM\WorkbaseImm\obj\Debug\WorkbaseImm.pdb
+D:\GIT\project\CRM\WorkbaseImm\bin\WorkbaseImm.dll.config
+D:\GIT\project\CRM\WorkbaseImm\bin\WorkbaseImm.dll
+D:\GIT\project\CRM\WorkbaseImm\bin\WorkbaseImm.pdb
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\csc.exe
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\csc.exe.config
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\csc.rsp
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\csi.exe
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\csi.exe.config
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\csi.rsp
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\Microsoft.Managed.Core.targets
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\System.AppContext.dll
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\System.Collections.Immutable.dll
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\System.Console.dll
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\System.IO.Compression.dll
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\System.IO.FileSystem.dll
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\System.IO.Pipes.dll
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\System.Reflection.Metadata.dll
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\System.Security.AccessControl.dll
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\System.Security.Claims.dll
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\System.Security.Principal.Windows.dll
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\System.ValueTuple.dll
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\System.Xml.XmlDocument.dll
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\System.Xml.XPath.dll
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\vbc.exe
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\vbc.exe.config
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\vbc.rsp
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\VBCSCompiler.exe
+D:\GIT\project\CRM\WorkbaseImm\bin\roslyn\VBCSCompiler.exe.config
+D:\GIT\project\CRM\WorkbaseImm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GIT\project\CRM\WorkbaseImm\bin\RestSharp.dll
+D:\GIT\project\CRM\WorkbaseImm\bin\RestSharp.xml
+D:\GIT\project\CRM\WorkbaseImm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GIT\project\CRM\WorkbaseImm\obj\Debug\WorkbaseImm.csprojAssemblyReference.cache
+D:\GIT\project\CRM\WorkbaseImm\obj\Debug\WorkbaseImm.csproj.CopyComplete
